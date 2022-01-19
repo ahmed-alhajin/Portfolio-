@@ -1,0 +1,129 @@
+
+
+.navbar{
+
+    border-bottom:1px solid hotpink;
+
+}
+
+
+.navbar-header a span:hover{
+    color:  hotpink;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover{
+    color: hotpink;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: hotpink;
+}
+/* Brand name*/
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{color: hotpink;}
+
+
+.container h1{
+    color:  hotpink;
+
+}
+
+.block-1 h1{
+    color:  hotpink;
+
+}
+
+
+.our-team h1{
+    color: hotpink;
+
+}
+
+
+.button {
+    background-color: hotpink;
+}
+
+
+
+/* start social section*/
+
+.social-section .social i{
+    color:hotpink;
+}
+
+
+
+.test h2{
+    color:hotpink;
+
+}
+/* Header/Blog Title */
+
+.header2 h2{
+    color:hotpink;
+
+}
+
+.coo label{
+    color:hotpink;
+}
+.coo h1{
+
+    color: hotpink;
+}
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color:hotpink;
+
+}
+
+
+
+
+.contain2 a{
+    color:hotpink;
+}
+.contain2 h2{
+    color: hotpink;
+
+}
+
+/* End Contact Form*/
+
+/* Start Footer*/
+
+.top-footer h3{
+    color: hotpink;
+
+}
+
+.bottom-footer a{
+    color: hotpink;
+
+}
+
+/* Style the submit button */
+input[type=submit] {
+    background-color:hotpink;
+
+}
+
+#m{
+    background-color:hotpink;
+}
+
+#myBtn {
+
+    background-color:  hotpink;  /* Set a background color */
+
+}
+/* End Newsletter*/
+
+/* End Footer*/

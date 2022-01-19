@@ -1,0 +1,131 @@
+
+
+.navbar{
+
+    border-bottom:1px solid orangered;
+
+}
+
+
+.navbar-header a span:hover{
+    color: orangered;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover{
+    color:orangered;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: orangered;
+}
+/* Brand name*/
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{color: orangered;}
+
+
+.container h1{
+    color: orangered;
+
+}
+
+.block-1 h1{
+    color: orangered;
+
+}
+
+
+.our-team h1{
+    color:orangered;
+
+}
+
+
+.button {
+    background-color:orangered;
+}
+
+
+
+/* start social section*/
+
+.social-section .social i{
+    color:orangered;
+}
+
+
+
+.test h2{
+    color: orangered;
+
+}
+/* Header/Blog Title */
+
+.header2 h2{
+    color:orangered;
+
+}
+
+.coo label{
+    color: orangered;
+}
+.coo h1{
+
+    color:orangered;
+}
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color:   orangered;
+
+}
+
+
+
+
+.contain2 a{
+    color:orangered;
+}
+.contain2 h2{
+    color: orangered;
+
+}
+
+/* End Contact Form*/
+
+/* Start Footer*/
+
+.top-footer h3{
+    color: orangered;
+
+}
+
+.bottom-footer a{
+    color: orangered;
+
+}
+
+
+
+
+
+/* Style the submit button */
+input[type=submit] {
+    background-color:  orangered;
+
+}
+
+#myBtn {
+
+    background-color:  orangered;/* Set a background color */
+
+}
+
+
+/* End Newsletter*/
+
+/* End Footer*/

@@ -1,0 +1,112 @@
+/*  start media query*/
+
+
+/* smart phones and tablets*/
+@media (max-width: 767px) {
+    .robe{
+        margin-right: 100px;
+    }
+    .hero h2{
+        margin-top: 430px;
+    }
+    .hero h1{
+        margin-top: 300px;
+    }
+    .carrousel{
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .carrousel h6{
+       display: none;
+
+    }
+    .slider{
+        margin-top: -400px;
+        width: 500px;
+    }
+    .clo{
+        display: none;
+    }
+    .c{
+        width: 400px;
+
+    }
+    .c h4{
+       font-size: 50px;
+    }
+
+    .b2{
+        display: none;
+    }
+
+    .bran{
+        display: none;
+    }
+
+
+    .bra{
+        display: none;
+    }
+
+
+
+   #c{
+        display: none;
+    }
+
+
+    #e{
+        display: none;
+    }
+
+    #g{
+        display: none;
+    }
+
+
+}
+
+
+/* small screen */
+@media(min-width: 768px)and (max-width: 991px) {
+
+    .slider{
+        margin-top: -700px;
+        width: 500px;
+    }
+    #c{
+        display: none;
+    }
+
+
+    #e{
+        display: none;
+    }
+
+    #g{
+        display: none;
+    }
+    .b1{
+        display: none;
+    }
+    .b2{
+        display: none;
+    }
+    .slider h5{
+       display: none;
+    }
+    .carrousel h6{
+        display: none;
+
+    }
+}
+
+@media(min-width: 992px)and (max-width: 1199px) {
+
+}
+
+@media(min-width: 1200px) {
+
+}
+
+/*  end media query*/

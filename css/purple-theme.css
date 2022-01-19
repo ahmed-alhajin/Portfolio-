@@ -1,0 +1,130 @@
+
+
+.navbar{
+
+    border-bottom:1px solid deeppink;
+
+}
+
+
+.navbar-header a span:hover{
+    color: deeppink;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover{
+    color: deeppink;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: deeppink;
+}
+/* Brand name*/
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{color:  deeppink;;}
+
+
+.container h1{
+    color: deeppink;
+
+}
+
+.block-1 h1{
+    color: deeppink;
+
+}
+
+
+.our-team h1{
+    color: deeppink;
+
+}
+
+
+.button {
+    background-color: deeppink;
+}
+
+
+
+/* start social section*/
+
+.social-section .social i{
+    color: deeppink;
+}
+
+
+
+.test h2{
+    color:  deeppink;
+
+}
+/* Header/Blog Title */
+
+.header2 h2{
+    color:  deeppink;
+
+}
+
+.coo label{
+    color: deeppink;
+}
+.coo h1{
+
+    color: deeppink;
+}
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color:  deeppink;
+
+}
+
+
+
+
+.contain2 a{
+    color: deeppink;
+}
+.contain2 h2{
+    color: deeppink;
+
+}
+
+/* End Contact Form*/
+
+/* Start Footer*/
+
+.top-footer h3{
+    color:deeppink;
+
+}
+
+.bottom-footer a{
+    color: deeppink;
+
+}
+
+
+
+
+
+/* Style the submit button */
+input[type=submit] {
+    background-color: deeppink;
+
+}
+
+#myBtn {
+
+    background-color: deeppink;  /* Set a background color */
+
+}
+
+/* End Newsletter*/
+
+/* End Footer*/

@@ -1,0 +1,126 @@
+
+
+.navbar{
+
+    border-bottom:1px solid  #51EAEA;
+
+}
+
+
+.navbar-header a span:hover{
+    color: #51EAEA;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover{
+    color:#51EAEA;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: #51EAEA;
+}
+/* Brand name*/
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{color: #51EAEA;}
+
+
+.container h1{
+    color:  #51EAEA;
+
+}
+
+.block-1 h1{
+    color:#51EAEA;
+
+}
+
+
+.our-team h1{
+    color:#51EAEA;
+
+}
+
+
+.button {
+    background-color: #51EAEA;
+}
+
+
+
+/* start social section*/
+
+.social-section .social i{
+    color: #51EAEA;
+}
+
+
+
+.test h2{
+    color: #51EAEA;
+
+}
+/* Header/Blog Title */
+
+.header2 h2{
+    color: #51EAEA;
+
+}
+
+.coo label{
+    color:  #51EAEA;
+}
+.coo h1{
+
+    color: #51EAEA;
+}
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color:  #51EAEA;
+
+}
+
+
+
+
+.contain2 a{
+    color: #51EAEA;
+}
+.contain2 h2{
+    color: #51EAEA;
+
+}
+
+/* End Contact Form*/
+
+/* Start Footer*/
+
+.top-footer h3{
+    color:#51EAEA;
+
+}
+
+.bottom-footer a{
+    color:#51EAEA;
+
+}
+
+/* Style the submit button */
+input[type=submit] {
+    background-color: #51EAEA;
+
+}
+
+#myBtn {
+
+    background-color:  #51EAEA; /* Set a background color */
+
+}
+
+/* End Newsletter*/
+
+/* End Footer*/

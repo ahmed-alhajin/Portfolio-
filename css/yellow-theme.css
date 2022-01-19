@@ -1,0 +1,133 @@
+
+
+.navbar{
+
+    border-bottom:1px solid #768ede;
+
+}
+
+
+.navbar-header a span:hover{
+    color: #768ede;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover{
+    color:  #768ede;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: #768ede;
+}
+/* Brand name*/
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{color: #768ede;}
+
+
+.container h1{
+    color:#768ede;
+
+}
+
+.block-1 h1{
+    color:  #768ede;
+
+}
+
+
+.our-team h1{
+    color: #768ede;
+
+}
+
+
+.button {
+    background-color:  #768ede;
+}
+
+
+
+/* start social section*/
+
+.social-section .social i{
+    color: #768ede;
+}
+
+
+
+.test h2{
+    color:  #768ede;
+
+}
+/* Header/Blog Title */
+
+.header2 h2{
+    color: #768ede;
+
+}
+
+.coo label{
+    color: #768ede;
+}
+.coo h1{
+
+    color: #768ede;
+}
+
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color:   #768ede;
+
+}
+
+
+
+
+.contain2 a{
+    color:  #768ede;
+}
+.contain2 h2{
+    color:  #768ede;
+
+}
+
+/* End Contact Form*/
+
+/* Start Footer*/
+
+.top-footer h3{
+    color: #768ede;
+
+}
+
+.bottom-footer a{
+    color:  #768ede;
+
+}
+
+
+
+
+
+/* Style the submit button */
+input[type=submit] {
+    background-color:  #768ede;
+
+}
+
+
+#m{
+    background-color:#768ede;
+}
+#myBtn {
+
+    background-color: #768ede; /* Set a background color */
+
+}
+/* End Newsletter*/
+
+/* End Footer*/
